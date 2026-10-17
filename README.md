@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **MediaHub is now E-LARA.** This repository is no longer updated.
+> Get the latest version, with the new name and logo, at **[github.com/website-developer-builder/E-LARA](https://github.com/website-developer-builder/E-LARA)** ([download](https://github.com/website-developer-builder/E-LARA/releases/latest)).
+> Already using MediaHub? Install E-LARA and delete MediaHub.app. Your library, favorites, and folder permissions carry over automatically.
+
 # MediaHub for macOS
 
 **Your photos, videos, and music. One simple library.**
